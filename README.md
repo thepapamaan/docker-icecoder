@@ -83,9 +83,9 @@ For full information and manual, please visit the website https://icecoder.net/
 
 ### Running a docker image
 
-To start the image listening on external port 8080 execute
+To start the image listening on external port 8080 execute - update accordingly
 
-	docker run -d -p 8080:80 nimmis/icecoder
+	docker run -d -p 8080:80 thepapamaan/icecoder
 
 please remeber to use the `-d` flag to make it run in the background, to access a running container, use
 
@@ -95,3 +95,8 @@ please remeber to use the `-d` flag to make it run in the background, to access 
 ### Versions
 
 Aug 22, 2015, updated to ICEcoder 5.0
+July 09, 2019, updated to ICEcoder 6.0. 
+
+### To do
+
+Update/replace Ubuntu and Apache versions - possibly move to Alpine.
