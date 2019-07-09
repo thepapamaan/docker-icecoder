@@ -94,8 +94,8 @@ please remeber to use the `-d` flag to make it run in the background, to access 
 
 ### Versions
 
-Aug 22, 2015, updated to ICEcoder 5.0
-July 09, 2019, updated to ICEcoder 6.0. 
+* Aug 22, 2015, updated to ICEcoder 5.0 - nimmis
+* July 09, 2019, forked nimmis/icecoder & updated dockerfile to ICEcoder 6.0
 
 ### To do
 
